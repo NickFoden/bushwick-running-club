@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "bushwick-running-club",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "An open source website for the people of bushwick to use to plan runs togther",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Nick Foden <nickfoden@gmail.com>",
   "dependencies": {
     "gatsby": "^2.13.9",
     "gatsby-image": "^2.2.4",
