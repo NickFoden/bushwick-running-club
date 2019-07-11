@@ -45,6 +45,7 @@
 }
 
 .header_div h1 {
+  font-family: var(--font-montserrat);
   margin: 0;
 }
 

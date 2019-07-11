@@ -18,8 +18,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `Bushwick Running Club`,
+        short_name: `BRC`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
